@@ -3,8 +3,11 @@
 MSc Dissertation Project
 
 Author: Phomolo Seithati Tidy Ntumelang
+
 Institution: North West University (Potchefstroom Campus)
+
 Degree: Master of Science in Computer Science
+
 Year: 2025
 
 
