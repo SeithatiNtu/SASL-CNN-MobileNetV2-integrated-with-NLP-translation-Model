@@ -18,5 +18,5 @@ The system captures hand gestures from a webcam, classifies them into correspond
 
 
 ### 🔗 Full Training Notebook
-The complete notebook (≈28 MB, includes all outputs) is available here:
+The complete notebook (≈37 MB, includes all outputs) is available here:
 [Download from Google Drive] https://drive.google.com/file/d/1PXeAM_8RE8OMGKbWlLN4_FCk-YRko-lF/view?usp=drive_link 
