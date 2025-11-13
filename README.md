@@ -15,3 +15,8 @@ Year: 2025
 This project presents a real-time South African Sign Language (SASL) translation system that integrates Convolutional Neural Networks (CNNs), MobileNetV2, and Natural Language Processing (NLP) for gesture-to-text and speech translation.
 
 The system captures hand gestures from a webcam, classifies them into corresponding SASL alphabet letters (A–Z), converts the output into text, and then generates speech. It is designed to improve accessibility and real-time communication between Deaf and hearing individuals.
+
+
+### 🔗 Full Training Notebook
+The complete notebook (≈28 MB, includes all outputs) is available here:
+[Download from Google Drive] https://drive.google.com/file/d/1PXeAM_8RE8OMGKbWlLN4_FCk-YRko-lF/view?usp=drive_link 
